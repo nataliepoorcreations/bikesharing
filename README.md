@@ -8,7 +8,6 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 * Show the number of bike trips for all riders and genders for each hour of each day of the week
 * Show the number of bike trips for each type of user and gender for each day of the week.
 
-Finally, I added these new visualizations to the two I created in this module for my final presentation and analysis to pitch to investors.
 
 ## Results
 
