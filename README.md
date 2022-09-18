@@ -1,6 +1,6 @@
 # bikesharing
 
-## Overview
+# Overview
 
 For this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I created a set of visualizations to:
 
@@ -9,9 +9,9 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 * Show the number of bike trips for each type of user and gender for each day of the week.
 
 
-## Results
+# Results
 
-# Deliverable 1: Change Trip Duration to a Datetime Format
+## Deliverable 1: Change Trip Duration to a Datetime Format
 Using Python and Pandas functions, I converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After I converted the "tripduration" column to a datetime dataytpe, I exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 
 
@@ -22,11 +22,13 @@ Using Python and Pandas functions, I converted the "tripduration" column from an
 
 
 
-# Deliverable 2: Create Visualizations for the Trip Analysis 
+## Deliverable 2: Create Visualizations for the Trip Analysis 
 Using Tableau, create visualizations that show:
 * How long bikes are checked out for all riders and genders.
 * How many trips are taken by the hour for each day of the week, for all riders and genders.
 * A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+
 
 * Checkout Times for Users Viz
 In this visualization, I graphed the length of time that bikes are checked out for all riders.
@@ -76,12 +78,12 @@ In this visualization, I created a graph so show average trip duration based on 
 
 
 
-# Deliverable 3: Create a Story and Report for the Final Presentation
+## Deliverable 3: Create a Story and Report for the Final Presentation
 For this part of the Challenge, I created a story in Tableau and wrote a report that describes the key outcomes of the NYC Citibike analysis I did in the module and in Deliverable 2.
 
 Please follow the link to find the The Tableau story created for this analysis: [link to dashboard](https://public.tableau.com/views/BikeSharingProject_16633819493280/BikeSharingStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Summary
+# Summary
 The overall story highlights many important considerations for the potential bike-sharing program in NYC. Some of the highlights are listed below:
 
 * We can see from the checkout times graph that most bikes are checked out during early hours of the day and most customers are female. Heatmap also supports this point by showing the usage of female bikers.
