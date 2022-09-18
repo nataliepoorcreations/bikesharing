@@ -31,6 +31,7 @@ Using Tableau, create visualizations that show:
 
 
 * Checkout Times for Users Viz
+
 In this visualization, I graphed the length of time that bikes are checked out for all riders.
 
 <img width="1037" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/106033535/190921014-258e45d3-eda4-448b-8f0a-fd0402a905e5.png">
@@ -38,6 +39,7 @@ In this visualization, I graphed the length of time that bikes are checked out f
 
 
 * Checkout Times by Gender Viz
+
 In this visualization, I graphed the length of time that bikes are checked out for each gender.
 
 <img width="1064" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/106033535/190921039-3342f232-9222-4aaf-abfa-ca660834d9ef.png">
@@ -45,6 +47,7 @@ In this visualization, I graphed the length of time that bikes are checked out f
 
 
 * Trips by Weekday for Each Hour Viz
+
 In this visualization, I graphed the number of bike trips by weekday for each hour of the day as a heatmap.
 
 <img width="551" alt="Trips by Weekday for Each Hour" src="https://user-images.githubusercontent.com/106033535/190921062-2a619d17-0173-4a31-9cf0-ebaa10072263.png">
@@ -52,6 +55,7 @@ In this visualization, I graphed the number of bike trips by weekday for each ho
 
 
 * Trips by Gender (Weekday per Hour) Viz
+
 In this visualization, I graphed the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
 <img width="1222" alt="Trips by Gender (Weekday per Hour)" src="https://user-images.githubusercontent.com/106033535/190921082-ba84434b-5f29-44f6-ae7e-7099e4341799.png">
@@ -59,12 +63,14 @@ In this visualization, I graphed the number of bike trips by gender for each hou
 
 
 * User Trips by Gender by Weekday Viz
+
 In this visualization, I created a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype.
 
 <img width="1034" alt="Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/106033535/190921148-fcbcb6b2-a095-4802-b65f-056989cbd309.png">
 
 
 * Top Starting Location
+
 In this visualization, we have a map where the bikes operate which shows the top starting locations of the bike trips. This map helps figure out which areas require more bikes and how much more depepding on different neighborhoods and the type of location.
 
 <img width="956" alt="Top Starting Location" src="https://user-images.githubusercontent.com/106033535/190921592-4bcf30a8-3708-4289-8ee4-70c71ade8cc4.png">
@@ -72,6 +78,7 @@ In this visualization, we have a map where the bikes operate which shows the top
 
 
 * Average Trip Duration by Gender
+
 In this visualization, I created a graph so show average trip duration based on gender. 
 
 <img width="956" alt="Average Trip Duration by Gender" src="https://user-images.githubusercontent.com/106033535/190921618-54d02979-21e2-4ff9-a524-e3bb9d4b057b.png">
@@ -81,7 +88,7 @@ In this visualization, I created a graph so show average trip duration based on 
 ## Deliverable 3: Create a Story and Report for the Final Presentation
 For this part of the Challenge, I created a story in Tableau and wrote a report that describes the key outcomes of the NYC Citibike analysis I did in the module and in Deliverable 2.
 
-Please follow the link to find the The Tableau story created for this analysis: [link to dashboard](https://public.tableau.com/views/BikeSharingProject_16633819493280/BikeSharingStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+Please follow the link to find the The Tableau story created for this analysis: [link to story](https://public.tableau.com/views/BikeSharingProject_16633819493280/BikeSharingStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Summary
 The overall story highlights many important considerations for the potential bike-sharing program in NYC. Some of the highlights are listed below:
@@ -94,4 +101,4 @@ The overall story highlights many important considerations for the potential bik
 Two additional visualizations that I would perform with the given dataset:
 
 * A visualization that shows the total number of rides each bike has accumulated could be a useful tool to determine which ones are due for maintenance.
-* Addind a top ending locations graph could help determine whether the bikes are going to be displaced too far from the starting locations creating scarcity at different starting locations.
+* Adding a top ending locations graph could help determine whether the bikes are going to be displaced too far from the starting locations creating scarcity at different starting locations.
