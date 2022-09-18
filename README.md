@@ -71,7 +71,7 @@ In this visualization, I created a heatmap that shows the number of bike trips b
 
 * Top Starting Location
 
-In this visualization, we have a map where the bikes operate which shows the top starting locations of the bike trips. This map helps figure out which areas require more bikes and how much more depepding on different neighborhoods and the type of location.
+In this visualization, I created a map where the bikes operate which shows the top starting locations of the bike trips. This map helps figure out which areas require more bikes and how much more depepding on different neighborhoods and the type of location.
 
 <img width="956" alt="Top Starting Location" src="https://user-images.githubusercontent.com/106033535/190921592-4bcf30a8-3708-4289-8ee4-70c71ade8cc4.png">
 
